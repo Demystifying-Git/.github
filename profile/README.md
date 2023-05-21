@@ -1,4 +1,4 @@
-# Demystifying Git
+# [🚀 Demystifying Git](https://github.com/Demystifying-Git/Demystifying-Git)
 
 ## Useful links
 
